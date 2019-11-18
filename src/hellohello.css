@@ -1,0 +1,19 @@
+.spruit-field.pm.hellohello {
+  display: block;
+  width: 80%;
+  margin-left: 10%;
+  background: #666600;
+  position: relative;
+  height:20em;
+  margin-top:0.5em;
+}
+.spruit-field.pm.hellohello .page,
+.spruit-field.pm.hellohello .homepage,
+.spruit-field.pm.hellohello .pageboxes {
+  position: absolute;
+  overflow-y: hidden;
+}
+.spruit-field.pm.hellohello .page {
+  background:#333300;
+  color:#fff;
+}
